@@ -1,4 +1,4 @@
-# M5 - Kopa do Mundo
+# Kopa do Mundo
 
 ## 1. Visão Geral
 
