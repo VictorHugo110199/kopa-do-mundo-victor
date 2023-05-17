@@ -1,5 +1,30 @@
 # M5 - Kopa do Mundo
 
+## 1. Visão Geral
+
+Visão geral do projeto, um pouco das tecnologias usadas.
+
+- Python
+- Django
+- Django-rest-framework
+</br>
+
+POST
+api/teams/
+Cadastrar seleção</br>
+GET
+api/teams/
+Listar seleções</br>
+GET
+api/teams/<team_id>/
+Filtragem de seleção</br>
+PATCH
+api/teams/<team_id>/
+Atualização de seleção</br>
+DELETE
+api/teams/<team_id>/
+Deleção de seleção</br>
+
 ## Como rodar os testes localmente
  - Verifique se os pacotes pytest e/ou pytest-testdox estão instalados globalmente em seu sistema:
 ```shell
